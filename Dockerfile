@@ -1,4 +1,4 @@
-FROM berepublic/ubuntubaseimage
+FROM ubuntu
 
 MAINTAINER yoelotero
 
