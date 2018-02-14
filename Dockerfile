@@ -6,7 +6,7 @@ ENV DEBIAN_FRONTEND noninteractive
 ENV COMPOSER_DISABLE_XDEBUG_WARN 1
 
 # Ensure UTF-8
-RUN locale-gen en_US.UTF-8
+# RUN locale-gen en_US.UTF-8
 ENV LANG       en_US.UTF-8
 ENV LC_ALL     en_US.UTF-8
 
